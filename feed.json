@@ -1,7 +1,7 @@
 {
     "title": "WWDC 2018 Swift Playgrounds Subscription Demo",
     "publisherName": "Ono Shuhei",
-    "feedIdentifier": "io.github.WWDC2018Playgrounds",
+    "feedIdentifier": "io.github.shuheiono",
     "contactURL": "mailto:shuhei.ono@jp.ricoh.com",
     "formatVersion": "1.0",
     "documents": [
@@ -10,9 +10,9 @@
             "overviewSubtitle": "オレがカスタマイズしたBook.",
             "detailSubtitle": "自作のBookをダウンロードするためのSubscriptionを作成",
             "description": "はたして"自作のBookをダウンロードするためのSubscriptionを作成することはできるのか",
-            "contentIdentifier": "io.github.WWDC2018Playgrounds.OrePlaygroundBook",
+            "contentIdentifier": "io.github.shuheiono.WWDC2018Playgrounds.OrePlaygroundBook",
             "contentVersion": "1.0",
-            "url": "https://shuheiono.github.io/WWDC2018Playgrounds.github.io/OrePlaygroundBook/OrePlaygroundBook.playgroundbook.zip",     
+            "url": "https://shuheiono.github.io/WWDC2018Playgrounds/OrePlaygroundBook/OrePlaygroundBook.playgroundbook.zip",     
             "additionalInformation": [
                 {
                     "name": "Made for",
