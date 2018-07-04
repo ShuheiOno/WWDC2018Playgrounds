@@ -24,7 +24,9 @@
             "thumbnailURL": "OrePlaygroundBook/thumbnail.png",
             "bannerImageURL": "OrePlaygroundBook/bannerImage.png",
             "previewImageURLs": [
-                "OrePlaygroundBook/previewImage.png"
+                "OrePlaygroundBook/previewImage1.png",
+                "OrePlaygroundBook/previewImage2.png",
+                "OrePlaygroundBook/previewImage3.png"
             ]
         }
     ]
