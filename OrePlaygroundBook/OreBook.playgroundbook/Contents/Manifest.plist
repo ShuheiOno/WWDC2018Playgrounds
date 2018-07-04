@@ -7,8 +7,6 @@
 		<string>Answers.playgroundchapter</string>
 	</array>
 	<key>ContentIdentifier</key>
-	<string>com.apple.playgrounds.Answers</string>
-	<key>New item</key>
 	<string>io.github.shuheiono.WWDC2018Playgrounds.OrePlaygroundBook</string>
 	<key>ContentVersion</key>
 	<string>1.0</string>
